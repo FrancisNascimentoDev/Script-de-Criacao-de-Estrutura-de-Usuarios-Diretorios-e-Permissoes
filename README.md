@@ -1,0 +1,2 @@
+# Script-de-Criacao-de-Estrutura-de-Usuarios-Diretorios-e-Permissoes
+Neste projeto foi desenvolvido um script em Linux responsável por automatizar a criação de usuários, grupos, diretórios e permissões do sistema. O script será versionado e disponibilizado no GitHub para reutilização futura, permitindo que novas máquinas virtuais sejam rapidamente configuradas e fiquem prontas para uso após sua execução.
